@@ -1,5 +1,6 @@
 # TRA-CM
-__________________________quick start____________________________________________________
+
+quick start:
 --train
 --optim
 adam
@@ -37,6 +38,6 @@ exp_mul
 .\outputs\summary
 --log_dir
 .\outputs\log
-_________________________________________data_________________________________________
 
+data:
 The training, validation, and testing data for TianGong-ST and TREC2014 are all stored in my repository.
